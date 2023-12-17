@@ -41,4 +41,4 @@ File Navigation:
   
   References:
 
-  
+  Reynolds, Max. SQL Data Types With Examples. 2023, Febuary 13. https://builtin.com/software-engineering-perspectives/sql-data-types
